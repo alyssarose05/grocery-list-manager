@@ -2,7 +2,7 @@
 An Android app for storing multiple grocery lists through accounts stored on a local SQL server.
 
 ## Team information
-Members:
+Team 6 Members:
 - Alyssa Ayala, alyssa.ayala29@qmail.cuny.edu
 - Juan Bermeo, juanc.bermeo@outlook.com
 - Rongxin Yang, rongxin.yang51@qmail.cuny.edu
