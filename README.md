@@ -3,10 +3,10 @@ An Android app for storing multiple grocery lists through accounts stored on a l
 
 ## Team information
 Team 6 Members:
-- Alyssa Ayala, alyssa.ayala29@qmail.cuny.edu
-- Juan Bermeo, juanc.bermeo@outlook.com
-- Rongxin Yang, rongxin.yang51@qmail.cuny.edu
-- Zheng Huang, ZHENG.HUANG462@qmail.cuny.edu
-- Hongtao Jiang, hongtao.jiang57@qmail.cuny.edu
+- Alyssa Ayala, https://github.com/alyssarose05
+- Juan Bermeo, https://github.com/jcbermeo
+- Rongxin Yang, https://github.com/RX-Yang
+- Zheng Huang, https://github.com/hz4563
+- Hongtao Jiang, https://github.com/HongtaoJ
 
 **Team Origin**: Queens College CSCI 370-34, Fall 2022
